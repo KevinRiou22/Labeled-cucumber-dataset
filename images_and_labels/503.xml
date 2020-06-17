@@ -1,0 +1,26 @@
+<annotation>
+	<folder>concombres</folder>
+	<filename>503.png</filename>
+	<path>/home/kevin/Bureau/concombres/503.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>concombre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>154</ymin>
+			<xmax>319</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
